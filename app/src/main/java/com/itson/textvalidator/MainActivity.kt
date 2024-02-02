@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
         slider.stepSize = 1f
         slider.valueFrom = 1f
         slider.valueTo = 100f
-        slider.value = 1f  // Establece un valor inicial dentro del rango (por ejemplo, 50)
+        slider.value = 1f
 
         slider.addOnChangeListener { _, value, _ ->
             val intValue = value.toInt()
