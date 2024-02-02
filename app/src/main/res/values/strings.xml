@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextValidator</string>
+    <string name="required">Obligatorio</string>
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="phone_number">Teléfono</string>
+    <string name="submit">Enviar</string>
+</resources>
